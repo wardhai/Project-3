@@ -1,0 +1,123 @@
+body {
+		background-color: LightSlateGray ;
+		background-size: cover;
+		font-size: 15px;
+		margin: 10px;
+		
+}
+nav#tabs, #tabs1{
+		float: none;
+		background-color: LightSlateGray ;
+		text-align:center;
+		font-family: "Raleway", sans-serif;
+		font-size: 20px;
+		margin-right: auto;
+		margin-left: auto;
+}
+
+nav#tabs ul{
+		list-style: none;
+		padding:0;
+		overflow: hidden;
+}
+
+nav#tabs ul li{
+		float: left;
+		margin-left:175px;
+		display:block;
+}
+
+nav#tabs ul li a, #tabs1{
+		float: none;
+		display: inline-block;
+		padding: 10px;
+		color: maroon;
+		text-decoration:none;
+		background-color: LightSlateGray ;
+		color: white;
+		font-weight: bold;
+		text-decoration: none;
+		text-align:center;
+		margin-right: auto;
+		margin-left: auto;
+}
+
+nav#tabs ul li a:hover{
+		color: maroon;
+}
+
+img{
+		width: 25%;
+		height: 25%; 
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 2%;
+
+}
+
+video {
+		width: auto;
+		height: 475px;	
+		display: block;
+		margin-right: auto;
+		margin-left: auto;
+		border-radius: 3%;
+		
+}
+
+h1 {
+		font-family: "Raleway", sans-serif;
+		text-align: center;
+		color: white;
+}
+
+#title{
+		font-size:40px;
+		background-color:LightSlateGray ;
+}
+
+
+h2, h3 {
+		font-family: "CourierNew", sans-serif;
+		color: white; 
+}
+#bio{
+		float: none;
+		font-size:20px;
+		background-color:LightSlateGray ;
+		color: white;
+		font-family: "Lucida Grande", sans-serif;
+		text-align: center;
+	
+}
+#subtext, #subtext1,#subtext2, #subtext3, #subtext4, #subtext5, #subtext6, #subtext7, #subtext8, #subtext9, #subtext10, #subtext11 {
+		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 70px;
+		color: white;
+}
+#bullets, #bullets1, #bullets2, #bullets3 {
+		font-family: "Palatino Linotype", sans-serif;
+		margin-left: 70px;
+		color: white;
+}
+#text, #text1, #text2, #text3, #text4, #text5 {
+		color: white;
+}
+#footer{
+	float: none;
+	clear: both;
+	background: white;
+	text-align: center;
+    font-family: Helvetica;
+	height: 50px;
+	line-height: 50px;
+}
+#me{
+	text-align: center;
+	font-size: 25px;
+}
+#caption, #caption1, #caption2, #caption3, #caption4, #caption5, #caption6 {
+	text-align: center;
+}
+
