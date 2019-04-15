@@ -11,26 +11,26 @@ nav#tabs, #tabs1{
 		text-align:center;
 		font-family: "Raleway", sans-serif;
 		font-size: 20px;
-		margin-right: auto;
-		margin-left: auto;
+		margin-left: 1px;
 }
 
 nav#tabs ul{
 		list-style: none;
 		padding:0;
 		overflow: hidden;
+		position: relative;
 }
 
 nav#tabs ul li{
 		float: left;
-		margin-left:175px;
+		margin-left:1px;
 		display:block;
 }
 
 nav#tabs ul li a, #tabs1{
 		float: none;
 		display: inline-block;
-		padding: 10px;
+		padding: 20px;
 		color: maroon;
 		text-decoration:none;
 		background-color: LightSlateGray ;
@@ -38,8 +38,6 @@ nav#tabs ul li a, #tabs1{
 		font-weight: bold;
 		text-decoration: none;
 		text-align:center;
-		margin-right: auto;
-		margin-left: auto;
 }
 
 nav#tabs ul li a:hover{
