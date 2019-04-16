@@ -1,0 +1,27 @@
+@media only screen and (min-width: 1000px) {
+	
+	
+body {
+  background-position: center;
+  width: 100%;
+  background-color: LightSlateGray;
+}
+
+#footer {
+	 display: block;
+     margin-left: auto;
+     margin-right: auto;
+
+}
+
+#tabs, #tabs1{
+		float: none;
+		background-color: LightSlateGray ;
+		text-align:center;
+		font-family: "Raleway", sans-serif;
+		font-size: 20px;
+		margin-left: 1px;
+}
+
+#title {
+	
